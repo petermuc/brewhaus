@@ -3,7 +3,7 @@ A take home test designing an API interface for a fictitious company
 
 Welcome to Brewhaus!
 
-Please design a simple website using a modern JavaScript framework (Vue, React, Angular, etc.) for the fictitious company Brewhaus using the Punk API located here: https://punkapi.com/
+Please design a simple website using a modern JavaScript framework (Vue) for the fictitious company Brewhaus using the Punk API located here: https://punkapi.com/
 
 Features of this website should include:
 - Main page listing out beers
