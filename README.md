@@ -3,7 +3,7 @@ A take home test designing an API interface for a fictitious company
 
 Welcome to Brewhaus!
 
-Please design a simple website using a modern JavaScript framework (prefer Vue 2.0 or 3.0) for the fictitious company FIND BREW using the API https://www.openbrewerydb.org/
+Please design a simple website using a modern JavaScript framework (prefer Vue 2.0 or 3.0) for the fictitious company BREWHAUS using the API https://www.openbrewerydb.org/
 
 Features of this website should include:
 - Main page listing out breweries
